@@ -12,7 +12,7 @@
  ionic g module directives/sharedDirectives --flat
  ionic g directive directives/hideHeader
  
- #Custom Component
+ # Custom Component
  ionic g module components/sharedComponents --flat
  ionic g component componenets/drawer
  ionic g service services/drawer
