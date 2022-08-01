@@ -1,0 +1,7 @@
+{
+  "name": "myNetflix",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
